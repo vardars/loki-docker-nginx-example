@@ -8,6 +8,7 @@
 
 # Add some nginx logs
 > curl localhost:8000
+> 
 > curl localhost:8000/not-exists
 
 # See logs on grafana
